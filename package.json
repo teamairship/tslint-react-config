@@ -1,0 +1,23 @@
+{
+  "name": "tslint-react-config-airship",
+  "version": "1.0.0",
+  "description": "The Airship TSLint React configuration setup.",
+  "main": "tslint-react-config-airship.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teamairship/tslint-react-config-airship.git"
+  },
+  "keywords": [
+    "tslint",
+    "react"
+  ],
+  "author": "Seth <seth.alexander@pm.me> (sethalexander.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teamairship/tslint-react-config-airship/issues"
+  },
+  "homepage": "https://github.com/teamairship/tslint-react-config-airship#readme"
+}
