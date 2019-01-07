@@ -6,4 +6,4 @@ Bug reports and pull requests are welcome on GitHub at [https://github.com/teama
 
 ## License
 
-The gem is available as open source under the terms of the MIT License.
+The gem is available as open source under the terms of the [MIT License](https://github.com/teamairship/tslint-react-config-airship/blob/master/LICENSE).
