@@ -1,0 +1,13 @@
+{
+  "defaultSeverity": "error",
+  "extends": ["tslint:latest", "tslint-react", "tsling-config-prettier"],
+  "linterOptions": { "exclude": ["node_modules/**/*.ts"] },
+  "jsRules": {},
+  "rules": {
+    "interface-name": [true, "never-prefix"],
+    "member-access": [true, "no-public"],
+    "ordered-imports": false,
+    "prettier": true
+  },
+  "rulesDirectory": ["tslint-plugin-prettier"]
+}
