@@ -1,5 +1,5 @@
 {
-  "name": "tslint-react-config-airship",
+  "name": "@airship/tslint-react-config-airship",
   "version": "1.0.0",
   "description": "The Airship TSLint React configuration setup.",
   "main": "tslint-react-config-airship.json",
