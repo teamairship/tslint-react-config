@@ -1,8 +1,8 @@
 {
-  "name": "@airship/tslint-react-config-airship",
+  "name": "@airship/tslint-react-config",
   "version": "1.0.0",
   "description": "The Airship TSLint React configuration setup.",
-  "main": "tslint-react-config-airship.json",
+  "main": "tslint-react-config.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
