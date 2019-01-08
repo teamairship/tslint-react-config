@@ -7,7 +7,7 @@ The [Airship](https://teamarship.com) TSLint config file used for React projects
 We assume you are using Prettier for code formatting.
 
 ```bash
-yarn add -D tslint tslint-config-prettier typescript tslint-react-config-airship
+yarn add -D tslint tslint-config-prettier typescript @airship/tslint-react-config
 ```
 
 Then in your `tslint.json` file:
@@ -24,4 +24,4 @@ Bug reports and pull requests are welcome on GitHub at [https://github.com/teama
 
 ## License
 
-The gem is available as open source under the terms of the [MIT License](https://github.com/teamairship/tslint-react-config-airship/blob/master/LICENSE).
+This package is available as open source under the terms of the [MIT License](https://github.com/teamairship/tslint-react-config-airship/blob/master/LICENSE).
