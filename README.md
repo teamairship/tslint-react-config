@@ -14,7 +14,7 @@ Then in your `tslint.json` file:
 
 ```json
 {
-  "extends": [ "tslint-react-config-airship" ]
+  "extends": [ "@airship/tslint-react-config" ]
 }
 ```
 
