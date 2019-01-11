@@ -7,7 +7,7 @@ The [Airship](https://teamarship.com) TSLint config file used for React projects
 We assume you are using Prettier for code formatting.
 
 ```bash
-yarn add -D tslint tslint-config-prettier typescript @airship/tslint-react-config
+yarn add -D tslint typescript @airship/tslint-react-config
 ```
 
 Then in your `tslint.json` file:
