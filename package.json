@@ -1,6 +1,6 @@
 {
   "name": "@airship/tslint-react-config",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "The Airship TSLint React configuration setup.",
   "main": "tslint.json",
   "scripts": {
@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/teamairship/tslint-react-config-airship/issues"
   },
-  "homepage": "https://github.com/teamairship/tslint-react-config-airship#readme"
+  "homepage": "https://github.com/teamairship/tslint-react-config-airship#readme",
+  "dependencies": {
+    "tslint-config-prettier": "^1.17.0",
+    "tslint-react": "^3.6.0"
+  }
 }
