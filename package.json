@@ -14,7 +14,21 @@
     "tslint",
     "react"
   ],
-  "author": "Seth <seth.alexander@pm.me> (sethalexander.me)",
+  "author": "Seth Alexander",
+  "contributors": [
+    {
+      "name": "Seth Alexander",
+      "email": "seth@teamairship.com"
+    },
+    {
+      "name": "Alex Hinson",
+      "email": "alex@teamairship.com"
+    },
+    {
+      "name": "Eric Hubbard",
+      "email": "eric@teamairship.com"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/teamairship/tslint-react-config/issues"
