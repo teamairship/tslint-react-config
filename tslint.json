@@ -10,7 +10,8 @@
   "jsRules": {},
   "rules": {
     "interface-name": [true, "never-prefix"],
+    "jsx-boolean-value": "never",
+    "ordered-imports": false,
     "member-access": [true, "no-public"],
-    "ordered-imports": false
   }
 }
