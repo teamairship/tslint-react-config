@@ -10,7 +10,7 @@ We assume you have and use Prettier for code formatting.
 yarn add -D @airship/tslint-react-config
 ```
 
-If you do not have [TSLint]() or [TypeScript]() installed (globally or in your project) you will need to install those as well.
+If you do not have [TSLint](https://palantir.github.io/tslint/) or [TypeScript](https://www.typescriptlang.org/) installed (globally or in your project) you will need to install those as well.
 
 ```bash
 yarn add -D tslint typescript
