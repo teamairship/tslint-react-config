@@ -1,8 +1,8 @@
 # Airship TSLint React Config
 
-The [Airship](https://teamarship.com) TSLint config file used for React projects.
+The [Airship](https://teamarship.com) TSLint config file used for React projects. This package includes the [@airship/tslint-react-a11y](https://www.npmjs.com/package/@airship/tslint-react-a11y) package as well.
 
-## Usage
+## Installation
 
 We assume you have and use Prettier for code formatting.
 
@@ -10,11 +10,23 @@ We assume you have and use Prettier for code formatting.
 yarn add -D @airship/tslint-react-config
 ```
 
-Then in your `tslint.json` file:
+If you do not have [TSLint]() or [TypeScript]() installed (globally or in your project) you will need to install those as well.
 
-```json
+```bash
+yarn add -D tslint typescript
+```
+
+## Usage
+
+In `tslint.json`:
+
+```javascript
 {
-  "extends": [ "@airship/tslint-react-config" ]
+  "extends": [ "@airship/tslint-react-config" ],
+  "rules": {
+    // override @airsihp/tslint-react-config rules here
+    "react-a11y-lang": false
+  }
 }
 ```
 
