@@ -1,6 +1,11 @@
 {
   "defaultSeverity": "error",
-  "extends": ["tslint:latest", "tslint-react", "tslint-config-prettier"],
+  "extends": [
+    "tslint:latest",
+    "tslint-react",
+    "tslint-config-prettier",
+    "@airship/tslint-react-a11y"
+  ],
   "linterOptions": { "exclude": ["node_modules/**/*.ts"] },
   "jsRules": {},
   "rules": {
