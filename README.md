@@ -4,7 +4,7 @@ The [Airship](https://teamarship.com) TSLint config file used for React projects
 
 ## Usage
 
-We assume you are using Prettier for code formatting.
+We assume you have and use Prettier for code formatting.
 
 ```bash
 yarn add -D @airship/tslint-react-config
