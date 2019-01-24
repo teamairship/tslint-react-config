@@ -1,5 +1,7 @@
 # Airship TSLint React Config
 
+[![npm package](https://img.shields.io/npm/v/@airship/tslint-react-config.svg?style=flat-square)](https://www.npmjs.org/package/@airship/tslint-react-config)
+
 The [Airship](https://teamarship.com) TSLint config file used for React projects. This package includes the [@airship/tslint-react-a11y](https://www.npmjs.com/package/@airship/tslint-react-a11y) package as well.
 
 ## Installation
