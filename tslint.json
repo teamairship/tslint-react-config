@@ -4,6 +4,7 @@
     "tslint:latest",
     "tslint-react",
     "tslint-config-prettier",
+    "tslint-react-hooks",
     "@airship/tslint-react-a11y"
   ],
   "linterOptions": { "exclude": ["node_modules/**/*.ts"] },
